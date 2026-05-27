@@ -1,9 +1,9 @@
-  // sentencias
+
   let pronoun = ['el', 'su', 'este'];
   let adj = ['mejor', 'gran', 'nuevo', 'simple'];
   let noun = ['carro', 'robot', 'video', 'restaurante', 'buscador'];
   
-//Dominios aleatorios posibles
+
   for(let letra1 of pronoun) {
     for(let letra2 of adj) {
       for(let letra3 of noun) {
